@@ -1,4 +1,2 @@
-Este es mi archivo inicial
-Cambio hecho por Alumno A
-
 Cambio realizado en GitHub (rama main)
+Cambio hecho por Alumno A
